@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/landingpage_gaurav/static/css/main.3ff699ef.chunk.css",
+    "main.js": "/landingpage_gaurav/static/js/main.77f94117.chunk.js",
+    "main.js.map": "/landingpage_gaurav/static/js/main.77f94117.chunk.js.map",
+    "runtime-main.js": "/landingpage_gaurav/static/js/runtime-main.e0971c9e.js",
+    "runtime-main.js.map": "/landingpage_gaurav/static/js/runtime-main.e0971c9e.js.map",
+    "static/js/2.65700217.chunk.js": "/landingpage_gaurav/static/js/2.65700217.chunk.js",
+    "static/js/2.65700217.chunk.js.map": "/landingpage_gaurav/static/js/2.65700217.chunk.js.map",
+    "index.html": "/landingpage_gaurav/index.html",
+    "static/css/main.3ff699ef.chunk.css.map": "/landingpage_gaurav/static/css/main.3ff699ef.chunk.css.map",
+    "static/js/2.65700217.chunk.js.LICENSE.txt": "/landingpage_gaurav/static/js/2.65700217.chunk.js.LICENSE.txt",
+    "static/media/gaurav2.206c3908.jpg": "/landingpage_gaurav/static/media/gaurav2.206c3908.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e0971c9e.js",
+    "static/js/2.65700217.chunk.js",
+    "static/css/main.3ff699ef.chunk.css",
+    "static/js/main.77f94117.chunk.js"
+  ]
+}
